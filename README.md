@@ -8,10 +8,12 @@ Error for test: 0.00671918
 EPOCH = 2000
 Training took 39612.8 sec
 
+
 Before:
+
 ![My image](https://github.com/nailtosun/LSTM-for-Solar-Panel-Output-Prediction/blob/master/img/readme2.PNG)
+
+
 Error for test: 0.01050184
-
-
 EPOCH = 20
 Training took 419.6 sec
